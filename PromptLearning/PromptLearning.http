@@ -1,0 +1,6 @@
+@PromptLearning_HostAddress = http://localhost:5230
+
+GET {{PromptLearning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
